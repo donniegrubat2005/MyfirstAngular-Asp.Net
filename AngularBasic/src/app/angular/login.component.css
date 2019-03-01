@@ -1,0 +1,26 @@
+.form-signin {
+    margin-top: 15%;
+}
+.form-group {
+    margin-bottom: 3px !important;
+}
+
+.form-control {
+    margin-bottom: 3px !important;
+}
+
+.form-group input[type=text] {
+    padding-left: 35px;
+}
+
+.form-group input[type=password] {
+    padding-left: 35px;
+}
+
+
+.form-group i {
+   position: absolute;
+   left: 0;
+   top: 5px;
+   padding: 7px 20px;
+}
